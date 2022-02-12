@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dvtorrez@gmail.com
+	name = Daniel Villarroel Torrez
